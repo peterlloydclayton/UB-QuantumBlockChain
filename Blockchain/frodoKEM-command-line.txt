@@ -1,0 +1,49 @@
+$ python frodokem-blockchain.py
+sender: bf69da935cd8d10aa886b6216
+recipient: 606bfe1cd38da31c6c2daadfd
+value: 5000
+time: 2021-12-12 15:55:24.258298
+sender: 606bfe1cd38da31c6c2daadfd
+recipient: e40ec80f3337280368badf895
+value: 100
+time: 2021-12-12 15:55:27.510742
+sender: 606bfe1cd38da31c6c2daadfd
+recipient: 98a17e19ac094a924a009d0a7
+value: 150
+time: 2021-12-12 15:55:30.362437
+sender: e40ec80f3337280368badf895
+recipient: 98a17e19ac094a924a009d0a7
+value: 75
+time: 2021-12-12 15:55:33.185374
+sender: 98a17e19ac094a924a009d0a7
+recipient: 0cf0559746905c68109eb7896
+value: 120
+time: 2021-12-12 15:55:36.055590
+Number of blocks in the chain: 3
+block # 0
+sender: bf69da935cd8d10aa886b6216    
+recipient: 606bfe1cd38da31c6c2daadfd 
+value: 5000
+time: 2021-12-12 15:55:24.258298     
+--------------
+=====================================
+block # 1
+sender: 606bfe1cd38da31c6c2daadfd    
+recipient: e40ec80f3337280368badf895 
+value: 100
+time: 2021-12-12 15:55:27.510742
+--------------
+sender: 606bfe1cd38da31c6c2daadfd
+recipient: 98a17e19ac094a924a009d0a7
+value: 150
+time: 2021-12-12 15:55:30.362437
+--------------
+sender: e40ec80f3337280368badf895
+recipient: 98a17e19ac094a924a009d0a7
+value: 75
+time: 2021-12-12 15:55:33.185374
+--------------
+sender: 98a17e19ac094a924a009d0a7
+recipient: 0cf0559746905c68109eb7896
+value: 120
+time: 2021-12-12 15:55:36.055590
