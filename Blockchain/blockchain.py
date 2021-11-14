@@ -1,7 +1,7 @@
 # Module I - Create a Blockchain
 # importing  the libraries
 
-# Sathia: testing...
+# Testing workfow
 
 import datetime
 import hashlib
